@@ -26,12 +26,12 @@
 //
 // # Usage
 //
-// Commands can be thought of as a wrapper for flag.FlagSet with some
+// Commands can be thought of as a wrapper for *flag.FlagSet with some
 // additional semantics. To get started, create a type that satisfies the
 // Command interface and embeds a *flag.FlagSet to which additional flags may
 // be bound:
 //
-//	type exampleCmd struct{
+//	type exampleCmd struct {
 //		flags *flag.FlagSet
 //		// additional flags
 //	}

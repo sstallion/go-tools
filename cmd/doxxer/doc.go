@@ -19,8 +19,6 @@ passed verbatim to "go run" to generate output. Output is then passed through
 The following example demonstrates generating documentation for an application
 that makes use of the standard flag package:
 
-Example:
-
 	//go:generate doxxer . -h
 	package main
 

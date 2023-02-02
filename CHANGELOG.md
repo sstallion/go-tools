@@ -7,9 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Updated documentation.
+
 ## [1.0.0] - 2023-01-31
 
-Initial release
+Initial release.
 
 [Unreleased]: https://github.com/sstallion/go-tools/compare/v1.0.0...HEAD
 [v1.0.0]: https://github.com/sstallion/go-tools/releases/tag/v1.0.0
